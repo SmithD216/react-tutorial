@@ -23,6 +23,12 @@
       "body": "hello",
       "author": "yoshi",
       "id": 4
+    },
+    {
+      "title": "hello ninjas",
+      "body": "hello ninjas",
+      "author": "mario",
+      "id": 5
     }
   ]
 }
